@@ -30,11 +30,11 @@ h1 {
   margin-top: 50px;
   
   text-shadow: 
-    1px 1px 0px #c9184a,
-    2px 2px 0px #c9184a,
-    3px 3px 0px #c9184a,
-    4px 4px 0px #c9184a,
-    5px 5px 0px #a4133c,
+    1px 1px 0px #18c9c9,
+    2px 2px 0px #18bdc9,
+    3px 3px 0px #18c9c9,
+    4px 4px 0px #18aec9,
+    5px 5px 0px #1393a4,
     6px 6px 15px rgba(0, 0, 0, 0.4);
     
   transform: skew(-5deg) rotate(-2deg);
